@@ -93,9 +93,9 @@ export const listPortofolio = [
     id: 1,
     nama: "E-Commerce IndraShop",
     desk: "Website e-commerce sederhana untuk penjualan produk.",
-    gambar: "/public/ecomerce.png",
+    gambar: "/ecomerce.png", // <-- path langsung dari public
     link: "https://e-commerce-indrashop.vercel.app/"
   },
- 
-
 ];
+
+
